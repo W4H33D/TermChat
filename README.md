@@ -46,7 +46,6 @@ Below is a local demonstration of the server and two connected clients communica
 ---
 
 ## Project Structure
-## Project Structure
 
 ```text
 termChat/
